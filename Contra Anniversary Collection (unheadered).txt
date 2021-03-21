@@ -1,0 +1,44 @@
+==================================================
+Filename          : famicom_Contra.unh
+CRC32             : 8DCC1194
+MD5               : 7A961AE16A02F965F641FFF906661E9F
+SHA1              : 92B31F38841B2A94DB91FAF376DCB3A23C889403
+File Size         : 262 144
+Extension         : unh
+==================================================
+
+==================================================
+Filename          : famicom_SuperContra.unh
+CRC32             : B1250D0C
+MD5               : 44D7BF041F64841DD7C1B1E270EA67D8
+SHA1              : C7361A39716DCD0364D0AD518D5D5EBD4BA56F87
+File Size         : 262 144
+Extension         : unh
+==================================================
+
+==================================================
+Filename          : nes_Contra.unh
+CRC32             : 755B7D59
+MD5               : 76E80217F3CED2AFABBAA2B54B9CC655
+SHA1              : 239A60CAF917663AB02DBCF1FBBB2C37540CA4BD
+File Size         : 131 072
+Extension         : unh
+==================================================
+
+==================================================
+Filename          : nes_ProbotectorII.unh
+CRC32             : 54BCF00C
+MD5               : 70AF2B377087DF451E45AA7EE868B91B
+SHA1              : 66C69E57F80F87B48C2B876EE4B8037DC2AEE8C3
+File Size         : 262 144
+Extension         : unh
+==================================================
+
+==================================================
+Filename          : nes_SuperC.unh
+CRC32             : 6CA0B45C
+MD5               : 5289A541B801040791F5BAC29590464D
+SHA1              : 7D04CCFA3CB796B52C4B65BE666C094AFCDF575F
+File Size         : 262 144
+Extension         : unh
+==================================================
