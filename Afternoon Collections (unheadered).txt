@@ -1,0 +1,54 @@
+==================================================
+Filename          : Chip 'n Dale - Rescue Rangers (Afternoon Collection) (Unverified).unh
+CRC32             : 9E8A45B7
+MD5               : B54598FCAF36221C4543922DF5CB5213
+SHA1              : E117B239225265EAF21EFADC31E14D156A7E825B
+File Size         : 262 144
+Extension         : unh
+==================================================
+
+==================================================
+Filename          : Chip 'n Dale - Rescue Rangers 2 (Afternoon Collection) (Unverified).unh
+CRC32             : C56084D7
+MD5               : 0F309DA00047B4036A9AC93B723D407E
+SHA1              : 33F0C43533CE5195C33305B975B6D113423139C6
+File Size         : 262 144
+Extension         : unh
+==================================================
+
+==================================================
+Filename          : Darkwing Duck (Afternoon Collection) (Unverified).unh
+CRC32             : EDC7E8C6
+MD5               : 699548966EC6FD55D80AB0711A513E46
+SHA1              : 9970D1BD6F65A40907E16988B1C2530513A34F91
+File Size         : 262 144
+Extension         : unh
+==================================================
+
+==================================================
+Filename          : DuckTales (Afternoon Collection) (Unverified).unh
+CRC32             : 45C33A1B
+MD5               : 1F295E4F228663234441B14F01A7EEB1
+SHA1              : B9EBF8EF2A336927D76A69B1C437D4A8120817C6
+File Size         : 131 072 
+Extension         : unh
+==================================================
+
+==================================================
+Filename          : DuckTales 2 (Afternoon Collection) (Unverified).unh
+CRC32             : 57085979
+MD5               : 4BD21B7B877C7C785F7807E27CAC7316
+SHA1              : 9655AF2FAFFFE8C9122D7B46D0C94B482DCDBD11
+File Size         : 131 072
+Extension         : unh
+==================================================
+
+==================================================
+Filename          : TaleSpin (Afternoon Collection) (Unverified).unh
+CRC32             : A97ECE5B
+MD5               : 1C6E46878F238DB88D3281BA9A457885
+SHA1              : 3729C1EC1CF953F10DA6176F331FEB53501697C4
+File Size         : 262 144
+Extension         : unh
+==================================================
+
