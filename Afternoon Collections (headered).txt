@@ -1,0 +1,52 @@
+==================================================
+Filename          : Chip 'n Dale - Rescue Rangers (Afternoon Collection) (Unverified).nes
+CRC32             : F3396499
+MD5               : 4627A2C5F8CEA8EED42A904D443B4FB4
+SHA1              : C5DA3EF61ED337BEAD7763D92AF91F50349A1E5D
+File Size         : 262 160
+Extension         : nes
+==================================================
+
+==================================================
+Filename          : Chip 'n Dale - Rescue Rangers 2 (Afternoon Collection) (Unverified).nes
+CRC32             : A8D3A5F9
+MD5               : 7AC47AF3940E837A31DB0A434EF09B85
+SHA1              : 24CBA62A359CC129727B59323E72EEFCAA006FDC
+File Size         : 262 160
+Extension         : nes
+==================================================
+
+==================================================
+Filename          : Darkwing Duck (Afternoon Collection) (Unverified).nes
+CRC32             : 8074C9E8
+MD5               : F4002E528264E3532DD76D555DF4327F
+SHA1              : 26C632599DEA59CDED1943771F7C2846EB0B4B2D
+File Size         : 262 160
+Extension         : nes
+==================================================
+
+==================================================
+Filename          : DuckTales (Afternoon Collection) (Unverified).nes
+CRC32             : 76CAE92F
+MD5               : 497ECB7F39FE489458A044D9805033E6
+SHA1              : F61633E2CC514E698BEBA264106F1F05955AD483
+File Size         : 131 088
+==================================================
+
+==================================================
+Filename          : DuckTales 2 (Afternoon Collection) (Unverified).nes
+CRC32             : 64018A4D
+MD5               : 93BF5ED56A569594CFCDF3DC8D3921B4
+SHA1              : CF3FAB0E41DAF9725D67794AB37CD7F880806724
+File Size         : 131 088
+Extension         : nes
+==================================================
+
+==================================================
+Filename          : TaleSpin (Afternoon Collection) (Unverified).nes
+CRC32             : C4CDEF75
+MD5               : 11DBC78E23D55662001A801CCE1D7346
+SHA1              : 253B887E4BB85AD9E81FEB6FA2C8721A31F6061A
+File Size         : 262 160
+Extension         : nes
+==================================================
