@@ -1,0 +1,134 @@
+==================================================
+Filename          : snes_ContraIII.smc
+CRC32             : 6128275A
+MD5               : EE8D967297A0BDB4661CD6BF70C383F8
+SHA1              : BADDFEC9F565E2083BAC06DFDCD527FD869BB778
+File Size         : 1 048 576 
+Extension         : smc
+==================================================
+
+==================================================
+Filename          : snes_SuperProbotector.smc
+CRC32             : 22D08E51
+MD5               : 797AAB4E5EF7F61AC59334C16A4F0804
+SHA1              : EA8DC2F783DDA1EF57CC7F909D0F16EDD9234BE0
+File Size         : 1 048 576
+Extension         : smc
+==================================================
+
+==================================================
+Filename          : sufami_ContraSpirits.smc
+CRC32             : 8B037C37
+MD5               : 3C6BFE38D0DDE432804C0C64DB48578F
+SHA1              : 1E822C00CC87FA2CE0919B8BCF55D243599F99A1
+File Size         : 1 048 576
+Extension         : smc
+==================================================
+
+==================================================
+Filename          : famicom_SuperContra.nes
+CRC32             : 6C2DC643
+MD5               : AA05571A1C7D5EEC12E08ECDD22D3DE6
+SHA1              : 76984202875267F484A5730EA4E60B48525E98DC
+File Size         : 262 160
+Extension         : nes
+==================================================
+
+==================================================
+Filename          : nes_Contra.nes
+CRC32             : 4652AE6D
+MD5               : 18B546346D1F28673DF188332399EB30
+SHA1              : 55969F4CDE0347B12D64FED896E10B60E2623111
+File Size         : 131 088
+Extension         : nes
+==================================================
+
+==================================================
+Filename          : nes_ProbotectorII.nes
+CRC32             : 233BE961
+MD5               : 73D166BF4D97CF45279298D73998B7DE
+SHA1              : 70FE88D3300EFAF8E2264224C587F483609295A7
+File Size         : 262 160
+Extension         : nes
+==================================================
+
+==================================================
+Filename          : nes_SuperC.nes
+CRC32             : 4633BCCE
+MD5               : 371060E1D5374CD45540332514420ACB
+SHA1              : 83C558C4582CDAB7F7898B425050E93497FF40FC
+File Size         : 262 160
+Extension         : nes
+==================================================
+
+==================================================
+Filename          : famicom_Contra.nes
+CRC32             : B5213EA4
+MD5               : BAD34F8E2A18764B32658295C0E55A52
+SHA1              : 679E4D355BB050A0CA2CC4CD56283FE204C38D7B
+File Size         : 262 160
+Extension         : nes
+==================================================
+
+==================================================
+Filename          : boy_Contra.gb
+CRC32             : CC67A046
+MD5               : 62D484BC4988823A143E50FDDAADAE2F
+SHA1              : 6FEA1350AC04F418095CCA5F157A9C770A0505BC
+File Size         : 131 072
+Extension         : gb
+==================================================
+
+==================================================
+Filename          : boy_OperationC.gb
+CRC32             : A7A5D9C2
+MD5               : A757DDDDA7B377C73CD8B7958B2115F6
+SHA1              : BD528F1B20051502E2B4418845E0C6698E1C5B4B
+File Size         : 131 072
+Extension         : gb
+==================================================
+
+==================================================
+Filename          : boy_Probotector.gb
+CRC32             : 1C03C0EE
+MD5               : A6B8B5222F1CFC5162CE4FB1E29A8006
+SHA1              : BC58585F8A1B2E27712AE5D44E3D851F4535A53F
+File Size         : 131 072
+Extension         : gb
+==================================================
+
+==================================================
+Filename          : sega_ContraHardCorps.bin
+CRC32             : 74DDED00
+MD5               : 04E4543A7C1D00FBBA8D8365CBD18FA2
+SHA1              : A2B264DF56B2E024CCBB90D28B29B01D0F94ACC1
+File Size         : 2 097 152
+Extension         : bin
+==================================================
+
+==================================================
+Filename          : sega_ContraTheHardCore.BIN
+CRC32             : F1F4B361
+MD5               : 05510AC3FD5FAF42232A9AF15A937709
+SHA1              : 5CAFBB15D304D7514C280F7A4AB41F6E2221B991
+File Size         : 2 097 152
+Extension         : BIN
+==================================================
+
+==================================================
+Filename          : sega_Probotector.BIN
+CRC32             : C14F4E78
+MD5               : 59B37A7B9936F11EB1ECCC0DAA715F45
+SHA1              : 1219EFDA8064DA138BF0649C629828EB1A98F8A0
+File Size         : 2 097 152
+Extension         : BIN
+==================================================
+
+==================================================
+Filename          : sega_Probotector_hacked_WW.BIN
+CRC32             : 5E42179D
+MD5               : AD944A9FA2499391C115282A3B993A91
+SHA1              : 2C80B040A935DC92D05E37FE79B1A7A6E5F6BBE5
+File Size         : 2 097 152
+Extension         : BIN
+==================================================
